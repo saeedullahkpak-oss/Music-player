@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AuraWave</string>
+    <string name="nav_library">Music</string>
+    <string name="nav_radio">FM Radio</string>
+    <string name="nav_studio">AI Studio</string>
+    <string name="action_import_audio">Add Audio Files</string>
+    <string name="action_scan_music">Scan Device</string>
+    <string name="action_stream_url">Play URL</string>
+    <string name="action_catch_lyrics">Catch Lyrics</string>
+    <string name="slow_net_mode_title">Slow Internet Mode</string>
+    <string name="slow_net_mode_subtitle">Low-bitrate streams &amp; deep anti-stutter buffer</string>
+</resources>

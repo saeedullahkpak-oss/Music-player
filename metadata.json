@@ -1,0 +1,6 @@
+{
+  "name": "AuraWave",
+  "description": "AI-powered universal music player with automatic lyrics detection, multi-language translation (Urdu, Hindi, Pashto, Arabic, English), and low-bandwidth global live FM radio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
